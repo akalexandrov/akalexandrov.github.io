@@ -8,6 +8,12 @@
 #      Markdown formatted page while the second is generated using JSON.
 
 main:
+  - title: "English"
+    url: /
+
+  - title: "Български"
+    url: /bg/
+    
   - title: "Publications"
     url: /publications/
 
